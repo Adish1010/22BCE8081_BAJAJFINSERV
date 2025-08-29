@@ -1,0 +1,7 @@
+com\bajajfinserv\javachallenge\dto\WebhookResponse.class
+com\bajajfinserv\javachallenge\service\ChallengeService.class
+com\bajajfinserv\javachallenge\JavaChallengeApplication.class
+com\bajajfinserv\javachallenge\dto\SolutionRequest.class
+com\bajajfinserv\javachallenge\service\SqlSolutionService.class
+com\bajajfinserv\javachallenge\service\ApiClientService.class
+com\bajajfinserv\javachallenge\dto\WebhookRequest.class
